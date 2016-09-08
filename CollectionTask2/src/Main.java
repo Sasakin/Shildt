@@ -14,5 +14,7 @@ public class Main {
         System.out.println(collection);
         collection.remove("3");
         System.out.println(collection);
+        StringBuilder s = new StringBuilder("васька");
     }
 }
+
